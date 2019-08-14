@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## About me
+First, thank you for visiting my online portfolio. My name is Lee Werner, and I am an aspiring data scientist. As a lifelong devotee
+of strategy games and puzzles, I have always harbored a love and passion for discovering patterns amidst complicated and dynamic settings. 
+When I discovered the field of data science, I knew I had found a career path that I could be passionate about forever.
 
-You can use the [editor on GitHub](https://github.com/werne401/werne401.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+From my work experience, independent learning efforts, and formal education, I have discovered the knowledge base and toolsets that
+data scientists require for their work is immense, and requires an incredible amount of work to become skilled in the field. Thankfully,
+I love challenges, and while I have spent many long nights staring down my code and asking why it doesn't work, I have never lost an
+ounce of the excitement and passion that originally led me down this path. That passion has led me to become involved in many
+fascinating projects, and the purpose of this online portfolio is to showcase to you that passion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I hope you enjoy the show.
 
-### Markdown
+Lee.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects
 
-```markdown
-Syntax highlighted code block
+#### Logistic Regression model in Python for Natural Language Processing
+Used a logistic regression model and natural language processing packages to write a script in Python that automatically buckets 
+survey open-response submissions into one of fourteen unique categories.
 
-# Header 1
-## Header 2
-### Header 3
+[https://placekitten.com/100/100](Thumbnail Preview)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/werne401/werne401.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
