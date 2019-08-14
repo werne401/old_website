@@ -18,6 +18,25 @@ Lee.
 Used a logistic regression model and natural language processing packages to write a script in Python that automatically buckets 
 survey open-response submissions into one of fourteen unique categories.
 
-![alt text](https://placekitten.com/100/100 "Text Title")
+![alt text](https://placekitten.com/300/300 "Text Title")
 
+#### Latent-Dirichlet Allocation algorithm implemented in Python for Natural Language Processing
+Used the Latent-Dirchlet Allocation algorithm in the sklearn Python libray to automatically categorize the top _n_ most popular
+news article title subjects over a multiple year period.
 
+![alt text](https://placekitten.com/300/300 "Text Title")
+
+#### Google Analytics reports of Website Performance Behavior
+Operated Google Analytics software to extract insights from the University of Minnesota's web homepage using website performance statistics and behaviorial flows. All information has been cleared of any proprietary nature.
+
+![alt text](https://placekitten.com/300/300 "Text Title"))
+
+#### Survey Analysis and Presentation using Excel and MS PPT
+Analyzed a survey sent out to persons who had donated bone marrow or PBSC regarding donor experience for insights and trends that have since led to new initiatives which are positively changing the process.
+
+![alt text](https://placekitten.com/300/300 "Text Title")
+
+#### Visualizations of FDIC Failed Bank Data using Tableau
+Created a dashboard using Tableau of open-source FDIC data about failed banks.
+
+![alt text](https://placekitten.com/300/300 "Text Title")
