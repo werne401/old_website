@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projects
 title: "Lee Werner - Test Project"
 date: 2019-08-17
 ---
