@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Lee Werner - Test Project"
 date: 2019-08-17
 ---
