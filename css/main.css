@@ -44,7 +44,7 @@ ul.posts li {
 
 .column {
   float: left;
-  width: 50%;
+  width: 33.33%;
 }
 
 /* Clear floats after the columns */
@@ -52,10 +52,6 @@ ul.posts li {
   content: "";
   display: table;
   clear: both;
-}
-
-body, html {
-    height: 100%;
 }
 
 /* The hero image */
