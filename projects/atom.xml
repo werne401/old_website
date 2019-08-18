@@ -5,10 +5,10 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Lee Werner's Projects</title>
-	<link href="http://hankquinlan.github.io/projects/atom.xml" rel="self"/>
-	<link href="http://hankquinlan.github.io/projects"/>
+	<link href="http://werne401.github.io/projects/atom.xml" rel="self"/>
+	<link href="http://werne401.github.io/projects"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/projects</id>
+	<id>http://werne401.github.io/projects</id>
 	<author>
 		<name>Lee Werner</name>
 		<email>werne401@umn.edu</email>
