@@ -1,4 +1,3 @@
-name: Hank Quinlan, Horrible Cop
+name: Lee Werner
 markdown: kramdown
-
-permalink: /projects/:title
+permalink: /projects/:year/:month/:day/:title
