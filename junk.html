@@ -1,7 +1,11 @@
 <!-- Here there be old code! Arr! -->
 
-<h1>Columns</h1>
+---------loop thru posts
+{% for post in site.posts %}
+	    <li> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
 
+<h1>Columns</h1>
 
 <div class="row">
 <div class="column">
