@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Document categorization using Latent-Dirichlet Allocation (Python, Natural Langauge Processing)"
+---
+
+Used the Latent-Dirchlet Allocation algorithm in the sklearn Python libray to automatically categorize the top _n_ most popular
+news article title subjects over a multiple year period.
+
+<!--
+![alt text](https://placekitten.com/300/300 "Text Title")
+-->
+
+<!--
+![pdf_of_model_explanation]({{ site.url }}/assets/lda-model-example.pdf)
+-->
+
+## <a href="/assets/lda-model-example.pdf" class="image fit"><img src="assets/lda-model-example.pdf" alt="Project Overview Presentation (PDF)"></a>
+
+<p>Here, I will tell you more about the project...</p>
+
+<!-- date: 2019-08-17 
+{:height="90%" width="90%"} -->
