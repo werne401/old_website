@@ -1,3 +1,4 @@
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
-permalink: /projects/:year/:month/:day/:title
+
+permalink: /projects/:title
