@@ -79,9 +79,10 @@ ul.posts li {
   color: white;
 }
 
-pre code {
+
+/* pre code {
   background-color: #eee;
   border: 1px solid #999;
   display: block;
   padding: 20px;
-}
+} */
